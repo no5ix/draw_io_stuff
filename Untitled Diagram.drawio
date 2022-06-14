@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T04:05:57.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="Ig9FUZHxb1UMlsunW_cx" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T04:10:08.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="0IpaxWK-MUUl8u1DZFMO" version="19.0.3" type="github">
   <diagram id="npF-58Th2BGEYhvz-0i7" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-1" value="被灰度的跨服(需要跨服同步), 新开老关19703" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-1" value="被灰度的跨服(需要跨服同步), 新开老关如19703跨服联赛" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="245" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-3" value="唯一TeamStub跨服" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -13,7 +13,7 @@
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-4" value="被灰度的本服, 新开老关" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-6" value="&lt;span style=&quot;&quot;&gt;没被灰度的跨服(需要跨服同步), 新关老开19704&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-6" value="&lt;span style=&quot;&quot;&gt;没被灰度的跨服(需要跨服同步), 新关老开如19001跨服战场&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="250" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-7" value="没被灰度的本服" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
