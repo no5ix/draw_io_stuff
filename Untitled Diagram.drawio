@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T04:10:45.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="kgi7jm0T7smEkoho5zDh" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T04:16:38.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33" etag="7kwd4ZV-vo8LEujDvrWp" version="19.0.3" type="github">
   <diagram id="npF-58Th2BGEYhvz-0i7" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -7,37 +7,31 @@
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-1" value="被灰度的跨服(需要跨服同步), 新开老关如19703跨服联赛" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="245" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-3" value="唯一TeamStub跨服" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-3" value="唯一承载TeamStub的跨服" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="380" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-4" value="被灰度的本服(隶属于19703的战区), 新开老关" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="560" width="185" height="60" as="geometry" />
+          <mxGeometry x="400" y="650" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-6" value="&lt;span style=&quot;&quot;&gt;没被灰度的跨服(需要跨服同步), 新关老开如19001跨服战场&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="250" width="186" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-7" value="没被灰度的本服" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="649.74" width="120" height="60" as="geometry" />
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-7" value="没被灰度的本服(不隶属于19703的战区)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="650" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1Y4oN1xmid4urN9Fm5Kw-3" edge="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Fn04Co8QwbzVWZO0wz7K-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="240" as="sourcePoint" />
             <mxPoint x="1100" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="200" />
               <mxPoint x="1170" y="200" />
-              <mxPoint x="1410" y="200" />
+              <mxPoint x="1460" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-15" value="ts" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="620" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-16" value="ts" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="350" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-19" value="ts" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="820" y="210" width="40" height="50" as="geometry" />
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-19" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="792" y="210" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.184;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="1Y4oN1xmid4urN9Fm5Kw-1" edge="1" source="1Y4oN1xmid4urN9Fm5Kw-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,9 +49,6 @@
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-24" value="&lt;span style=&quot;&quot;&gt;没被灰度的跨服(不需要跨服同步), 新关老关&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="977" y="250" width="186" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-25" value="ts" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="210" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.038;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.422;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="1Y4oN1xmid4urN9Fm5Kw-6" edge="1" source="1Y4oN1xmid4urN9Fm5Kw-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,25 +74,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-30" value="原来可以跨服同步, 现在不能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="750.0042450038214" y="350.0026721285676" as="geometry">
+          <mxGeometry x="730.0042450038214" y="435.0026721285676" as="geometry">
             <mxPoint x="-103" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-32" value="体验和原来一样, 不同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1080.0037560861324" y="349.99847471189355" as="geometry" />
-        </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.95;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-7" target="1Y4oN1xmid4urN9Fm5Kw-6" edge="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.882;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-7" target="1Y4oN1xmid4urN9Fm5Kw-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="450" as="sourcePoint" />
             <mxPoint x="1030" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="410" />
+              <mxPoint x="1020" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.806;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-7" target="1Y4oN1xmid4urN9Fm5Kw-24" edge="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.806;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.918;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-7" target="1Y4oN1xmid4urN9Fm5Kw-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="490" as="sourcePoint" />
+            <mxPoint x="1270" y="650" as="sourcePoint" />
             <mxPoint x="1090" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1180" y="440" />
@@ -109,11 +97,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1Y4oN1xmid4urN9Fm5Kw-36" value="体验和原来一样, 可同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="970.0037560861323" y="389.99847471189355" as="geometry">
+          <mxGeometry x="1020.0037560861323" y="449.99847471189355" as="geometry">
             <mxPoint x="17" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-38" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-4" target="1Y4oN1xmid4urN9Fm5Kw-24" edge="1">
+        <mxCell id="1Y4oN1xmid4urN9Fm5Kw-38" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1Y4oN1xmid4urN9Fm5Kw-4" target="1Y4oN1xmid4urN9Fm5Kw-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="410" as="sourcePoint" />
             <mxPoint x="800" y="360" as="targetPoint" />
@@ -123,7 +111,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fn04Co8QwbzVWZO0wz7K-4" value="体验和原来一样,&amp;nbsp; 不同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="710.0001397242411" y="490.0018680580013" as="geometry" />
+          <mxGeometry x="660.0001397242411" y="520.0018680580013" as="geometry">
+            <mxPoint x="28" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fn04Co8QwbzVWZO0wz7K-6" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn04Co8QwbzVWZO0wz7K-7" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="620" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn04Co8QwbzVWZO0wz7K-8" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="350" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Fn04Co8QwbzVWZO0wz7K-9" value="体验和原来一样,&amp;nbsp; 不同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1150.000139724241" y="420.0018680580013" as="geometry">
+            <mxPoint x="28" y="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
