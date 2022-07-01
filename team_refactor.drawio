@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T01:55:46.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="RgiI9qLuwdFBZPfY5RRL" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T11:28:37.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="GiI_EMJK1tek36erJQui" version="20.0.4" type="github">
   <diagram id="rwdfcXLqar5d2yC7gLK0" name="Page-1">
-    <mxGraphModel dx="1673" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1677" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,81 +38,81 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2230" y="40" width="540" height="780" as="geometry" />
+          <mxGeometry x="2639" y="8" width="540" height="780" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-19" value="Player:initOnCrossServerLoginAfterRecord" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2382.5" y="200" width="265" height="60" as="geometry" />
+          <mxGeometry x="2791.5" y="168" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TeamStub:fetchAndUpdateTeamGroupInfo&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="275" width="360" height="140" as="geometry" />
+          <mxGeometry x="3349" y="243" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-21" value="Player:onFetchAndUpdateTeamGroupInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2382.5" y="560" width="270" height="60" as="geometry" />
+          <mxGeometry x="2791.5" y="528" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-24" target="VfFvClQi_rvXctgVRvRW-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2660" y="340" as="sourcePoint" />
-            <mxPoint x="2660" y="410" as="targetPoint" />
+            <mxPoint x="3069" y="308" as="sourcePoint" />
+            <mxPoint x="3069" y="378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-20" target="VfFvClQi_rvXctgVRvRW-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2800" y="560" as="sourcePoint" />
-            <mxPoint x="2850" y="510" as="targetPoint" />
+            <mxPoint x="3209" y="528" as="sourcePoint" />
+            <mxPoint x="3259" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-24" value="Player:fetchAndUpdateTeamGroupInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="315" width="270" height="60" as="geometry" />
+          <mxGeometry x="2789" y="283" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-19" target="VfFvClQi_rvXctgVRvRW-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2500" y="270" as="sourcePoint" />
-            <mxPoint x="2520" y="310" as="targetPoint" />
+            <mxPoint x="2909" y="238" as="sourcePoint" />
+            <mxPoint x="2929" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PlayerStub:record&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#513DFF;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="50" width="360" height="140" as="geometry" />
+          <mxGeometry x="3349" y="18" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-27" value="Player:initOnCrossServerLogin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2382.5" y="90" width="265" height="60" as="geometry" />
+          <mxGeometry x="2791.5" y="58" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-28" value="启动六秒的定时器" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2365" y="430" width="300" height="80" as="geometry" />
+          <mxGeometry x="2774" y="398" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-29" value="forceSoulEnterSpace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2402.5" y="670" width="230" height="60" as="geometry" />
+          <mxGeometry x="2811.5" y="638" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-27" target="VfFvClQi_rvXctgVRvRW-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2690" y="120" as="sourcePoint" />
-            <mxPoint x="2740" y="70" as="targetPoint" />
+            <mxPoint x="3099" y="88" as="sourcePoint" />
+            <mxPoint x="3149" y="38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-32" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-26" target="VfFvClQi_rvXctgVRvRW-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2820" y="260" as="sourcePoint" />
-            <mxPoint x="2870" y="210" as="targetPoint" />
+            <mxPoint x="3229" y="228" as="sourcePoint" />
+            <mxPoint x="3279" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-24" target="VfFvClQi_rvXctgVRvRW-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2490" y="410" as="sourcePoint" />
-            <mxPoint x="2540" y="360" as="targetPoint" />
+            <mxPoint x="2899" y="378" as="sourcePoint" />
+            <mxPoint x="2949" y="328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-40" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-21" target="VfFvClQi_rvXctgVRvRW-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2500" y="680" as="sourcePoint" />
-            <mxPoint x="2550" y="630" as="targetPoint" />
+            <mxPoint x="2909" y="648" as="sourcePoint" />
+            <mxPoint x="2959" y="598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-28" target="VfFvClQi_rvXctgVRvRW-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2290" y="500" as="sourcePoint" />
-            <mxPoint x="2320" y="710" as="targetPoint" />
+            <mxPoint x="2699" y="468" as="sourcePoint" />
+            <mxPoint x="2729" y="678" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2320" y="470" />
-              <mxPoint x="2320" y="700" />
+              <mxPoint x="2729" y="438" />
+              <mxPoint x="2729" y="668" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,142 +120,245 @@
           <mxGeometry x="462" y="284" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-43" value="注册玩家信息到PlayerStub" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="83" width="168" height="30" as="geometry" />
+          <mxGeometry x="3109" y="51" width="168" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-44" value="请求teamInfo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2793" y="301" width="60" height="30" as="geometry" />
+          <mxGeometry x="3202" y="269" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-45" value="是否为同步队伍的玩法?" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="2969.5" y="470" width="301" height="90" as="geometry" />
+          <mxGeometry x="3378.5" y="438" width="301" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-47" value="TeamStub:_quitTeamNoQuitSpace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="2964.25" y="640" width="311.5" height="60" as="geometry" />
+          <mxGeometry x="3373.25" y="608" width="311.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-48" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-45" target="VfFvClQi_rvXctgVRvRW-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3116" y="557" as="sourcePoint" />
-            <mxPoint x="3116" y="620" as="targetPoint" />
+            <mxPoint x="3525" y="525" as="sourcePoint" />
+            <mxPoint x="3525" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-45" target="VfFvClQi_rvXctgVRvRW-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2826" y="564" as="sourcePoint" />
-            <mxPoint x="2876" y="514" as="targetPoint" />
+            <mxPoint x="3235" y="532" as="sourcePoint" />
+            <mxPoint x="3285" y="482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-47" target="VfFvClQi_rvXctgVRvRW-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2781" y="670" as="sourcePoint" />
-            <mxPoint x="2831" y="620" as="targetPoint" />
+            <mxPoint x="3190" y="638" as="sourcePoint" />
+            <mxPoint x="3240" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-51" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3124" y="585" width="47" height="30" as="geometry" />
+          <mxGeometry x="3533" y="553" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-52" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="2892" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="3301" y="453" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="433" width="540" height="780" as="geometry" />
+          <mxGeometry x="1076" y="48" width="540" height="780" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-56" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;TeamStub:fetchAndUpdateTeamGroupInfo&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1753" y="430" width="360" height="140" as="geometry" />
+          <mxGeometry x="1769" y="45" width="360" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-57" value="Player:onFetchAndUpdateTeamGroupInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="932" width="270" height="60" as="geometry" />
+          <mxGeometry x="1211" y="547" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-60" target="VfFvClQi_rvXctgVRvRW-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1475" y="636" as="sourcePoint" />
-            <mxPoint x="1475" y="706" as="targetPoint" />
+            <mxPoint x="1491" y="251" as="sourcePoint" />
+            <mxPoint x="1491" y="321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-56" target="VfFvClQi_rvXctgVRvRW-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1613" y="715" as="sourcePoint" />
-            <mxPoint x="1663" y="665" as="targetPoint" />
+            <mxPoint x="1629" y="330" as="sourcePoint" />
+            <mxPoint x="1679" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-60" value="Player:fetchAndUpdateTeamGroupInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1188" y="640" width="270" height="60" as="geometry" />
+          <mxGeometry x="1204" y="255" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-80" target="VfFvClQi_rvXctgVRvRW-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1315" y="566" as="sourcePoint" />
-            <mxPoint x="1335" y="606" as="targetPoint" />
+            <mxPoint x="1331" y="181" as="sourcePoint" />
+            <mxPoint x="1351" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-72" value="请求teamInfo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1627" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="1643" y="115" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-73" value="是否为同步队伍的玩法?" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1782.5" y="625" width="301" height="90" as="geometry" />
+          <mxGeometry x="1798.5" y="240" width="301" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-74" value="TeamStub:_quitTeamNoQuitSpace" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1777.25" y="765" width="311.5" height="60" as="geometry" />
+          <mxGeometry x="1793.25" y="380" width="311.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-75" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-73" target="VfFvClQi_rvXctgVRvRW-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1929" y="712" as="sourcePoint" />
-            <mxPoint x="1929" y="775" as="targetPoint" />
+            <mxPoint x="1945" y="327" as="sourcePoint" />
+            <mxPoint x="1945" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-76" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-73" target="VfFvClQi_rvXctgVRvRW-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1641" y="860" as="sourcePoint" />
-            <mxPoint x="1691" y="810" as="targetPoint" />
+            <mxPoint x="1657" y="475" as="sourcePoint" />
+            <mxPoint x="1707" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-77" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-84" target="VfFvClQi_rvXctgVRvRW-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1766" y="1101" as="sourcePoint" />
-            <mxPoint x="1646" y="916" as="targetPoint" />
+            <mxPoint x="1782" y="716" as="sourcePoint" />
+            <mxPoint x="1662" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-78" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1937" y="740" width="47" height="30" as="geometry" />
+          <mxGeometry x="1953" y="355" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-79" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1687" y="655" width="60" height="30" as="geometry" />
+          <mxGeometry x="1703" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-80" value="Player:_sendClientWhenLogin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="470" width="200" height="60" as="geometry" />
+          <mxGeometry x="1246" y="85" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-81" value="TeamStub:teamBuild" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1782.5" y="867" width="311.5" height="60" as="geometry" />
+          <mxGeometry x="1798.5" y="482" width="311.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-82" value="TeamStub:teamJoin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1774" y="969" width="311.5" height="60" as="geometry" />
+          <mxGeometry x="1790" y="584" width="311.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-83" value="启动六秒的定时器" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;strokeColor=#00FF00;fillColor=#33FF99;" vertex="1" parent="1">
-          <mxGeometry x="1779.75" y="1084" width="300" height="52" as="geometry" />
+          <mxGeometry x="1795.75" y="699" width="300" height="52" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-84" value="记录其他队友将要加入的队伍ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
-          <mxGeometry x="1774" y="1181" width="311.5" height="60" as="geometry" />
+          <mxGeometry x="1790" y="796" width="311.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-86" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.476;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VfFvClQi_rvXctgVRvRW-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="821" as="sourcePoint" />
-            <mxPoint x="1943" y="775" as="targetPoint" />
+            <mxPoint x="1946" y="436" as="sourcePoint" />
+            <mxPoint x="1959" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-89" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.475;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-81" target="VfFvClQi_rvXctgVRvRW-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1900" y="1108" as="sourcePoint" />
-            <mxPoint x="1950" y="1058" as="targetPoint" />
+            <mxPoint x="1916" y="723" as="sourcePoint" />
+            <mxPoint x="1966" y="673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-93" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-82" target="VfFvClQi_rvXctgVRvRW-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2093" y="1028" as="sourcePoint" />
-            <mxPoint x="2143" y="978" as="targetPoint" />
+            <mxPoint x="2109" y="643" as="sourcePoint" />
+            <mxPoint x="2159" y="593" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VfFvClQi_rvXctgVRvRW-94" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-83" target="VfFvClQi_rvXctgVRvRW-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2135" y="1102" as="sourcePoint" />
-            <mxPoint x="2185" y="1052" as="targetPoint" />
+            <mxPoint x="2151" y="717" as="sourcePoint" />
+            <mxPoint x="2201" y="667" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-97" value="销毁其他队友将要加入的队伍ID的记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="2189" y="695" width="311.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-98" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VfFvClQi_rvXctgVRvRW-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2092" y="725" as="sourcePoint" />
+            <mxPoint x="2139" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-99" value="6秒后" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="687" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-101" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;跨服&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="793" width="769" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-102" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="611" y="909" width="190" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-103" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;本服&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="103" y="1318" width="769" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-104" value="TeamStub" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1365" width="190" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-105" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-106" target="VfFvClQi_rvXctgVRvRW-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="1185" as="sourcePoint" />
+            <mxPoint x="462" y="1135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-106" value="Player" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="905" width="203" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-107" value="Player" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1365" width="203" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-109" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-107" target="VfFvClQi_rvXctgVRvRW-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1390" as="sourcePoint" />
+            <mxPoint x="520" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-110" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-104" target="VfFvClQi_rvXctgVRvRW-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1251" as="sourcePoint" />
+            <mxPoint x="620" y="1201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-111" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;TeamStub&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="1646" y="1084" width="190" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-112" value="redis, 30分钟过期" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=28;strokeColor=#000000;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="1582" y="1390" width="311" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-114" value="定时一分钟备份" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=28;strokeColor=#000000;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="1913" y="1098" width="375" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-115" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-114" target="VfFvClQi_rvXctgVRvRW-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2056" y="1352" as="sourcePoint" />
+            <mxPoint x="2083" y="1512" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2096" y="1452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-116" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-111" target="VfFvClQi_rvXctgVRvRW-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1896" y="1052" as="sourcePoint" />
+            <mxPoint x="1946" y="1002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-117" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;TeamStub&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;strokeColor=#000000;fillColor=#00FF80;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1098" width="190" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-118" value="redis, 30分钟过期" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=28;strokeColor=#000000;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="2571" y="1404" width="311" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-120" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-117" target="VfFvClQi_rvXctgVRvRW-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3074.5" y="1192" as="sourcePoint" />
+            <mxPoint x="3057" y="1526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3070" y="1152" />
+              <mxPoint x="3070" y="1466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-122" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=0;exitY=0;exitDx=145.5;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VfFvClQi_rvXctgVRvRW-118" target="VfFvClQi_rvXctgVRvRW-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2693" y="1366" as="sourcePoint" />
+            <mxPoint x="2743" y="1316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-123" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=28;endWidth=17.22222222222222;endSize=11.616666666666667;width=26.666666666666668;fillColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2283" y="1296" as="sourcePoint" />
+            <mxPoint x="2576" y="1301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfFvClQi_rvXctgVRvRW-124" value="TeamStub挂了重新拉起" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="2333" y="1221" width="180" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
